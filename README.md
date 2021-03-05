@@ -1,5 +1,4 @@
 # Clean_jumia
-
 #This is mainly a simple cleaning of data project using pandas.
 
 Purpose of this Project :\
